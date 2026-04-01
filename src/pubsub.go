@@ -7,7 +7,7 @@
  * Use Strict!!!
  *-------------------------------------------------------------*/
 
-package pattern
+package gopattern
 
 import (
 	"sync"

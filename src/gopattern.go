@@ -1,5 +1,5 @@
 // Set of program pattern for gogen
-package pattern
+package gopattern
 
 import (
 // "fmt"
